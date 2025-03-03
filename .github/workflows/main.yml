@@ -26,10 +26,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#bfd6f6,#39c4dd,#ceecff,#a3e1ed,#ffffff
             dist/ocean.gif?color_snake=yellow&color_dots=#bfd6f6,#39c4dd,#ceecff,#a3e1ed,#ffffff
-
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
-
+            
       - name: Push files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

@@ -17,11 +17,11 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
-      - name: Snake
-        uses: Platane/snk@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: |
+          outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=yellow&color_dots=#539bc8,#39c4dd,#ceecff,#a3e1ed,#ffffff

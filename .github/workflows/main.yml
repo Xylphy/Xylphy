@@ -24,8 +24,8 @@ jobs:
           github_user_name: Xylphy
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#539bc8,#39c4dd,#ceecff,#a3e1ed,#ffffff
-            dist/ocean.gif?color_snake=yellow&color_dots=#539bc8,#39c4dd,#ceecff,#a3e1ed,#ffffff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#bfd6f6,#39c4dd,#ceecff,#a3e1ed,#ffffff
+            dist/ocean.gif?color_snake=yellow&color_dots=#bfd6f6,#39c4dd,#ceecff,#a3e1ed,#ffffff
 
       - name: Install ImageMagick
         run: sudo apt-get update && sudo apt-get install -y imagemagick

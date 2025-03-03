@@ -127,9 +127,7 @@
 ### 🌟 Contributions
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg">
-</picture>
+![](https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg)
 
 ### 🐥 Pets
 

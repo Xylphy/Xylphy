@@ -127,7 +127,6 @@
 ### 🌟 Contributions
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
-<!-- ![](https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg) -->
 ![](https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg)
 
 ### 🐥 Pets

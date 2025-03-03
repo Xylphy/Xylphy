@@ -24,7 +24,7 @@ jobs:
           github_user_name: Xylphy
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#161b22,#39c4dd,#ceecff,#a3e1ed,#ffffff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#13243e,#003997,#4a61d8,#adcbf0,#ffffff
             dist/ocean.gif?color_snake=yellow&color_dots=#161b22,#39c4dd,#ceecff,#a3e1ed,#ffffff
 
       - name: Push files to output branch

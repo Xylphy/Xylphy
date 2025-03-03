@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=❄️%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=50&fontColor=FFFFFF&fontAlignY=47)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=🦋%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=50&fontColor=FFFFFF&fontAlignY=47)
 
 ![Banner](Banner.gif)
 
@@ -107,8 +107,10 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Xylphy&&theme=github-dark-blue&background=45%2C00000000%2C00000000&hide_border=false) <br>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000)
-
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
+  height="350"
+  />
 ## 🏆 GitHub Trophies
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)

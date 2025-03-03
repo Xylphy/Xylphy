@@ -105,25 +105,25 @@
 
 # 📊 GitHub Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Xylphy&&theme=github-dark-blue&background=45%2C00000000%2C00000000&hide_border=false)
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
-  height="300"
-  />
+|                                                                                                                                                                                                                     |                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)                                                                                     | ![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Xylphy&&theme=github-dark-blue&background=45%2C00000000%2C00000000&hide_border=false) |
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000) |                                                                                                                                                                      |
 
 ## 🏆 GitHub Trophies
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-| ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
-
 ### 🌟 Contributions
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
 ![Snake](https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg)
+
+-----
+
+| ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 ### 🐥 Pets
 

@@ -8,12 +8,20 @@
 
 ### 🪪 DevCard
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="356" alt="Fleurette's Dev Card"/></a>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile"/>
-  </a>
-</div>
+<a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="356" alt="Fleurette's Dev Card"/></a>
+<img src="" alt="Spotify Profile"/>
+</a>
+
+<h3 align="center">Spotify:</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh4jb2u4dxeck264lb3iutlcbe&count=10">
+      </td>
+      <td>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+</td>
 
 # 🌐 Socials:
 
@@ -112,6 +120,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=000000ff" 
   height="350"
   />
+
 ## 🏆 GitHub Trophies
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)

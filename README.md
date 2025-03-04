@@ -10,11 +10,11 @@
 
 <a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="356" alt="Fleurette's Dev Card"/></a>
 
-<h3 align="center">Spotify:</h3>
+### 🎧 Spotify
 <table>
   <tr>
     <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh4jb2u4dxeck264lb3iutlcbe&count=10">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh4jb2u4dxeck264lb3iutlcbe&count=7&width=400">
     </td>
     <td>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&redirect=true">

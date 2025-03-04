@@ -9,27 +9,23 @@
 ### 🪪 DevCard
 
 <a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="356" alt="Fleurette's Dev Card"/></a>
-<img src="" alt="Spotify Profile"/>
-</a>
 
 <h3 align="center">Spotify:</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh4jb2u4dxeck264lb3iutlcbe&count=10">
-      </td>
-      <td>
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-</td>
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh4jb2u4dxeck264lb3iutlcbe&count=10">
+    </td>
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yh4jb2u4dxeck264lb3iutlcbe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    </td>
+  </tr>
+</table>
 
 # 🌐 Socials:
 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/lumen_floris)
-<!--[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Xylphy)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge)](https://quora.com/profile/D-e-s-t-i-n-y-21)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/--Synthesia--)-->
-
 
 # 💻 Tech Stack:
 

@@ -4,12 +4,12 @@
 
 # 💫 About Me:
 
-<h4>🔭 I’m currently tinkering away on my super-secret repositories like a little code gremlin!</h4>
-<h4>🌱 I'm currently learning the things whatever my heart wants. </h4>
-<h4>💬 Ask me anything, and I’ll sprinkle you with delightfully wrong answers </h4>
-<h4>🍰 I’m powered by sweets, chaos, and an unhealthy obsession with programming</h4>
-<h4>💖 Random love: Late-night vibes, cozy blankets, and the sound of rain tapping on my window</h4>
-<h4>⚡ Fun fact: I use Arch because I'm a fancy tech person who loves a challenge </h4>
+<h5>🔭 I’m currently tinkering away on my super-secret repositories like a little code gremlin!</h5>
+<h5>🌱 I'm currently learning the things whatever my heart wants. </h5>
+<h5>💬 Ask me anything, and I’ll sprinkle you with delightfully wrong answers </h5>
+<h5>🍰 I’m powered by sweets, chaos, and an unhealthy obsession with programming</h5>
+<h5>💖 Random love: Late-night vibes, cozy blankets, and the sound of rain tapping on my window</h5>
+<h5>⚡ Fun fact: I use Arch because I'm a fancy tech person who loves a challenge </h5>
 
 ### 🪪 DevCard
 

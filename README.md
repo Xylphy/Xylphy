@@ -4,13 +4,19 @@
 
 # 💫 About Me:
 
-🔭 I'm currently working on some of my repositories.<br>🌱 I'm currently learning the things whatever my heart wants.<br>💬 Ask me anything, and expect a wrong answer.<br>⚡ Fun fact: I use Arch, btw.
+<h4>🔭 I’m currently tinkering away on my super-secret repositories like a little code gremlin!</h4>
+<h4>🌱 I'm currently learning the things whatever my heart wants. </h4>
+<h4>💬 Ask me anything, and I’ll sprinkle you with delightfully wrong answers </h4>
+<h4>🍰 I’m powered by sweets, chaos, and an unhealthy obsession with programming</h4>
+<h4>💖 Random love: Late-night vibes, cozy blankets, and the sound of rain tapping on my window</h4>
+<h4>⚡ Fun fact: I use Arch because I'm a fancy tech person who loves a challenge </h4>
 
 ### 🪪 DevCard
 
 <a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="356" alt="Fleurette's Dev Card"/></a>
 
 ### 🎧 Spotify
+
 <table>
   <tr>
     <td>

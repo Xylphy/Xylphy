@@ -138,7 +138,7 @@
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
-## 🐥 Pets
+# 🐥 Pets
 
 <img
   src="https://render.gitanimals.org/farms/Xylphy"

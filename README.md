@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=🦋%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=50&fontColor=FFFFFF&fontAlignY=47)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&fontColor=FFFFFF)
 
 ![Banner](Banner.gif)
 
@@ -128,7 +128,7 @@
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🌟 Contributions
+## 🌟 Contributions
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
 ![Snake](https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg)
@@ -139,7 +139,7 @@
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
-### 🐥 Pets
+# 🐥 Pets
 
 <img
   src="https://render.gitanimals.org/farms/Xylphy"

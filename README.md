@@ -141,13 +141,12 @@
 
 # 🐥 Pets
 
-<img
-  src="https://render.gitanimals.org/farms/Xylphy"
-/>
 
-<img
-  src="https://render.gitanimals.org/guilds/669546667782242005/draw"
-/>
+|                                                               |                                                                                                                   |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://render.gitanimals.org/farms/Xylphy"/> | <img src="https://render.gitanimals.org/guilds/669546667782242005/draw" /> |
+| <img src="https://render.gitanimals.org/guilds/671643895035339143/draw" />| <img src="https://render.gitanimals.org/guilds/672684621890333195/draw" /> |
+
 
 ---
 

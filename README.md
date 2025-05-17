@@ -118,7 +118,7 @@
 # 📊 GitHub Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Xylphy&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Xylphy&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
   height="350"

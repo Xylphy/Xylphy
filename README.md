@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20✿%20⋅⋆%20─────&fontColor=FFFFFF)
 
 ![Banner](Banner.gif)
 

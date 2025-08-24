@@ -118,7 +118,9 @@
 # 📊 GitHub Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Xylphy&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Xylphy&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
   height="350"
@@ -126,7 +128,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Github Trophies](https://trophygh.kolioaris.xyz/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌟 Contributions
 
@@ -135,18 +137,16 @@
 
 ---
 
-| ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
+| ✍️ Random Dev Quote                                                                | 🔝 Top Contributed Repo                                                                                                                       |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 # 🐥 Pets
 
-
-|                                                               |                                                                                                                   |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://render.gitanimals.org/farms/Xylphy"/> | <img src="https://render.gitanimals.org/guilds/669546667782242005/draw" /> |
-| <img src="https://render.gitanimals.org/guilds/671643895035339143/draw" />| <img src="https://render.gitanimals.org/guilds/672684621890333195/draw" /> |
-
+|                                                                            |                                                                            |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img src="https://render.gitanimals.org/farms/Xylphy"/>                    | <img src="https://render.gitanimals.org/guilds/669546667782242005/draw" /> |
+| <img src="https://render.gitanimals.org/guilds/671643895035339143/draw" /> | <img src="https://render.gitanimals.org/guilds/672684621890333195/draw" /> |
 
 ---
 

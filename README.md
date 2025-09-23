@@ -115,6 +115,10 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%33313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+# 🛡️ Badges:
+
+[![Credly Badge](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)]()
+
 #  GitHub Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)

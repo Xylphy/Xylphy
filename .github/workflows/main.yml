@@ -19,7 +19,7 @@ jobs:
           commit_message: "chore: update ${filename}"
 
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.3.0
+        uses: Platane/snk@v3.4.0
         with:
           github_user_name: Xylphy
           outputs: |

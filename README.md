@@ -117,9 +117,11 @@
 
 # 🛡️ Badges:
 
-![Credly Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)
+![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)
 
-#  GitHub Stats:
+![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob)
+
+# GitHub Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xylphy&show_icons=true&bg_color=00000000&theme=github_dark)
 
@@ -141,7 +143,7 @@
 
 ---
 
-| ✍️ Random Dev Quote                                                                | 🔝 Top Contributed Repo                                                                                                                       |
+| ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 

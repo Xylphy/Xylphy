@@ -139,7 +139,7 @@
 ## 🌟 Contributions
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
-![Snake](https://raw.githubusercontent.com/Xylphy/Xylphy/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Xylphy/Xylphy/snake/github-snake-dark.svg)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xylphy/Xylphy/output/pacman-contribution-graph-dark.svg">

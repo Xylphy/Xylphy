@@ -19,7 +19,7 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: Xylphy
-          bricks_colors: "#e0f7fa,#b2ebf2,#4dd0e1,#0097a7,#006064"
+          bricks_colors: "#13243e,#003997,#4a61d8,#adcbf0,#ffffff"
 
       - name: Move generated SVGs to temp
         run: |

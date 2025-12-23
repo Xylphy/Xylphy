@@ -147,6 +147,18 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xylphy/Xylphy/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Xylphy/Xylphy/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Xylphy/Xylphy/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Xylphy/Xylphy/github-breakout/images/breakout-light.svg" />
+</picture>
+
 ---
 
 | ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |

@@ -1,0 +1,42 @@
+name: generate breakout svg
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-svg:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: Xylphy
+          bricks_colors: "#e0f7fa,#b2ebf2,#4dd0e1,#0097a7,#006064"
+
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/custom.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs to target branch
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
+          git push --force origin github-breakout

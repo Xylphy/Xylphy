@@ -29,7 +29,6 @@
 
 # 🌐 Socials:
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/lumen_floris)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/754877522952585236)
 
 # 💻 Tech Stack:

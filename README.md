@@ -4,9 +4,7 @@
 
 # 💫 About Me:
 
-<h5>🔭 I’m currently tinkering away on my super-secret repositories like a little code gremlin!</h5>
 <h5>🌱 I'm currently learning the things whatever my heart wants. </h5>
-<h5>💬 Ask me anything, and I’ll sprinkle you with delightfully wrong answers </h5>
 <h5>🍰 I’m powered by sweets, chaos, and an unhealthy obsession with programming</h5>
 <h5>💖 Random love: Late-night vibes, cozy blankets, and the sound of rain tapping on my window</h5>
 <h5>⚡ Fun fact: I use Arch because I'm a fancy tech person who loves a challenge </h5>

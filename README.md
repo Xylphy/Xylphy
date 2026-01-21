@@ -165,6 +165,7 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/Xylphy/Xylphy/github-breakout/images/custom.svg" />
 </picture>
 
+![My GitHub Game](game.gif)
 ---
 
 | ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |

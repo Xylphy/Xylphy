@@ -131,9 +131,7 @@
 
 # 🛡️ Badges:
 
-![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)
-
-![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob)
+![Cloud Foundations Badge](https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob) ![Cloud Architecting Badge](https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob)
 
 # GitHub Stats:
 

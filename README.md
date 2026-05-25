@@ -11,6 +11,7 @@
 
 ### 🪪 DevCard
 
+<img src="https://discord.c99.nl/widget/theme-3/754877522952585236.png">
 <a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="356" alt="Fleurette's Dev Card"/></a>
 
 ### 🎧 Spotify

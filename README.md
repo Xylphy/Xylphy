@@ -138,7 +138,7 @@
 
 ![Github Stats](./profile/stats.svg) <br>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Xylphy&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Xylphy&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
 
 <img
   src="./profile/top-langs.svg" 

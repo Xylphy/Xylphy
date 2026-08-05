@@ -167,16 +167,30 @@
 ![My GitHub Game](game.gif)
 ---
 
-| ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
+| ✍️ Random Dev Quote                                                                | 🔝 Top Contributed Repo                                                                                                                       |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 # 🐥 Pets
 
-|                                                                            |                                                                            |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="https://render.gitanimals.org/farms/Xylphy"/>                    | <img src="https://render.gitanimals.org/guilds/669546667782242005/draw" /> |
-| <img src="https://render.gitanimals.org/guilds/671643895035339143/draw" /> | <img src="https://render.gitanimals.org/guilds/672684621890333195/draw" /> |
+<table>
+  <tr>
+    <td>
+      <img src="https://render.gitanimals.org/farms/Xylphy">
+    </td>
+    <td>
+      <img src="https://render.gitanimals.org/guilds/669546667782242005/draw" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://render.gitanimals.org/guilds/671643895035339143/draw">
+    </td>
+    <td>
+      <img src="https://render.gitanimals.org/guilds/672684621890333195/draw" />
+    </td>
+  </tr>
+</table>
 
 ---
 

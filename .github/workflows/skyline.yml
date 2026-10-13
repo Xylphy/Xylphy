@@ -19,7 +19,7 @@ jobs:
       - name: Draw skyline
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: go run github.com/pinkpixel-dev/skyline@latest -theme ice -svg skyline.svg "${{ github.repository_owner }}"
+        run: go run github.com/pinkpixel-dev/skyline@latest -theme ice -svg skyline.svg "Xylphy"
 
       - name: Publish to output branch
         env:
@@ -31,4 +31,4 @@ jobs:
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
               commit -qm "Update skyline"
-          git push -qf "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" output
+          git push -f "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" output

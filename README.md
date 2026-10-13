@@ -153,11 +153,10 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
 ![Snake](https://raw.githubusercontent.com/Xylphy/Xylphy/snake/github-snake-dark.svg)
+![Skyline](https://raw.githubusercontent.com/Xylphy/Xylphy/skyline/skyline.svg)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xylphy/Xylphy/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xylphy/Xylphy/output/pacman-contribution-graph.svg"> 
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xylphy/Xylphy/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xylphy/Xylphy/pacman/pacman-contribution-graph-dark.svg">
 </picture>
 
 <picture>

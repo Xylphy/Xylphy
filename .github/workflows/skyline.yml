@@ -26,9 +26,9 @@ jobs:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir out && mv skyline.svg out/ && cd out
-          git init -q -b output
+          git init -q -b skyline
           git add skyline.svg
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
               commit -qm "Update skyline"
-          git push -f "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" output
+          git push -f "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" skyline

@@ -147,11 +147,11 @@
 
 ## 🏆 GitHub Trophies
 
-![Github Trophies](https://trophygh.kolioaris.xyz/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Github Trophies](https://github-trophies.vercel.app/?username=Xylphy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌟 Contributions
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xylphy&theme=react)
+![Graph](https://raw.githubusercontent.com/Xylphy/Xylphy/activity-graph/activity-graph.svg)
 ![Snake](https://raw.githubusercontent.com/Xylphy/Xylphy/snake/github-snake-dark.svg)
 ![Skyline](https://raw.githubusercontent.com/Xylphy/Xylphy/skyline/skyline.svg)
 
